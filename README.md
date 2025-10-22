@@ -1,4 +1,4 @@
-# IndieGameMarketAnalysisTool-itchio
+<img width="2520" height="2972" alt="Review" src="https://github.com/user-attachments/assets/78e5fbc5-7e37-4593-93b7-79f1ec7efc01" /># IndieGameMarketAnalysisTool-itchio
 A Python tool for analyzing indie game reviews, automating sentiment analysis and dimensional evaluation to generate insightful market reports.
 独立游戏数据分析系统 | Indie Game Data Analysis System
 
@@ -16,30 +16,13 @@ A Python tool for analyzing indie game reviews, automating sentiment analysis an
 
 前后端分离架构: 采用经典的 Flask (后端) + React (前端) 架构，展示了全栈开发能力。
 
-动态演示：
 
-
-(提示: 您可以使用 ScreenToGif 等工具录制一个操作演示GIF，然后上传到这里，这将极大地吸引招聘官的注意)
-
-系统截图
-
-前端交互界面
-
-自动生成的Word报告
-
-[您的前端界面截图]
-
-[您的Word报告内容截图]
-
-六维评估雷达图
-
-情感分布饼图
+<img width="2520" height="2972" alt="Review" src="https://github.com/user-attachments/assets/c4ff8acd-65eb-449e-90f9-950514942c7a" />
 
 
 
 
 
-(提示: 您可以把之前生成的 radar_chart.jpg 和 sentiment_pie.png 上传到这里)
 
 技术栈
 
