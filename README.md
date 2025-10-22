@@ -4,26 +4,6 @@ A Python tool for analyzing indie game reviews, automating sentiment analysis an
 
 一个结合了 Python 后端分析能力与 React 前端可视化的全栈Web应用，用于自动化分析独立游戏的用户评论数据，并生成图文并茂的市场竞争力分析报告。
 
-项目亮点 
-
-自动化数据分析: 上传简单的CSV文件，即可自动完成对上万条评论的情感分析和六维能力评估。
-
-专家级关键词词典: 内置超大规模、究极版的中英文关键词词典，深度挖掘玩家在核心玩法、叙事逻辑、美术、音效、用户体验、创新性六个维度的真实反馈。
-
-一键生成专业报告: 自动生成包含数据摘要、分析图表和评估结果的 .docx (Word) 格式专业报告，便于商业演示和归档。
-
-现代化交互界面: 基于 React 和 TailwindCSS 构建的动态仪表盘，提供流畅的文件上传体验和清晰的可视化结果展示。
-
-前后端分离架构: 采用经典的 Flask (后端) + React (前端) 架构，展示了全栈开发能力。
-
-
-<img width="2520" height="2972" alt="Review" src="https://github.com/user-attachments/assets/c4ff8acd-65eb-449e-90f9-950514942c7a" />
-
-
-
-
-
-
 技术栈
 
 后端: Python, Flask, Pandas, Matplotlib, python-docx
